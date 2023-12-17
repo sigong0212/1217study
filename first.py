@@ -1,4 +1,3 @@
-print(0+3)
 
 print(5+5)
 print(9-5)
@@ -15,4 +14,5 @@ print(1+1)
 
 >>>>>>> test5
 
+print(0-3)
 
